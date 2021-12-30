@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Joshi.
-- 👀 I’m interested in learning new stuffs,Coding, Reading Books, Playing Basketball.
+- 👀 I’m interested in learning new Technologies,Coding, Reading Books, Playing Basketball.
 - 🌱 I’m currently learning Web Devlopment, CyberSecurity and Ethical Hacking...
 - 📫 How to reach me Gmail- hjoshi2607@gmail.com    Linkedin- https://www.linkedin.com/in/himanshu-joshi-8521b4182/
 
